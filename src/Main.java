@@ -20,7 +20,6 @@ public class Main {
                     cnt = 1;
                 }
             }
-            mx = Math.max(cnt, mx);
             System.out.println(mx);
 
             br.close();
